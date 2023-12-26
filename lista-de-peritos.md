@@ -14,7 +14,7 @@ REGIÃO NORTE
     
     * MACAPÁ
 
-	     * [Luiz Hamilton Silva (Analista de Segurança Computacional, Computação Forense, Perícias Digitais) ](https://www.linkedin.com/in/luiz-hamilton-roberto-da-silva-44529528/)
+	     * [Luiz Hamilton Roberto da Silva (Senior Analyst | Systems Administrator | Windows Server SysAdmin | IT Support Specialist | Digital Forensic Examiner) ](https://www.linkedin.com/in/brazilianscriptguy/)
 
 
     * MACAPÁ
