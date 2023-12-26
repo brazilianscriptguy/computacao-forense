@@ -14,17 +14,13 @@ REGIÃO NORTE
     
     * MACAPÁ
 
+	     * [Adilson de Miranda (Perícia Forense, Adminstração de Redes e Segurança, Pedagogo) ](https://www.linkedin.com/in/adilsonmsjunior/)
+
 	     * [Luiz Hamilton Roberto da Silva (Senior Analyst | Systems Administrator | Windows Server SysAdmin | IT Support Specialist | Digital Forensic Examiner) ](https://www.linkedin.com/in/brazilianscriptguy/)
 
 
-    * MACAPÁ
-
-	     * [Adilson de Miranda (Perícia Forense, Adminstração de Redes e Segurança, Pedagogo) ](https://www.linkedin.com/in/adilsonmsjunior/)
-
 	     * [Marcio Bezerra da Silva (Análises em Geral) ](www.amapadigital.net)
 		 
-		 
-
 * AMAZONAS
 
 * PARÁ
