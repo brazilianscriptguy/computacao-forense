@@ -11,20 +11,14 @@ REGIÃO NORTE
 * ACRE
 
 * AMAPÁ
-    
     * MACAPÁ
 
-	     * [Luiz Hamilton Silva (Analista de Segurança Computacional, Computação Forense, Perícias Digitais) ](https://www.linkedin.com/in/luiz-hamilton-roberto-da-silva-44529528/)
+	    * [Adilson de Miranda (Perícia Forense, Adminstração de Redes e Segurança, Pedagogo) ](https://www.linkedin.com/in/adilsonmsjunior/)
 
-
-    * MACAPÁ
-
-	     * [Adilson de Miranda (Perícia Forense, Adminstração de Redes e Segurança, Pedagogo) ](https://www.linkedin.com/in/adilsonmsjunior/)
+	    * [Luiz Hamilton Silva (Analista de Segurança Computacional, Computação Forense, Perícias Digitais) ](https://www.linkedin.com/in/luiz-hamilton-roberto-da-silva-44529528/)
 
 	     * [Marcio Bezerra da Silva (Análises em Geral) ](www.amapadigital.net)
 		 
-		 
-
 * AMAZONAS
 
 * PARÁ
