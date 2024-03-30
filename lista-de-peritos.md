@@ -18,7 +18,6 @@ REGIÃO NORTE
 
 	     * [Luiz Hamilton Roberto da Silva (Senior Analyst | Systems Administrator | Windows Server SysAdmin | IT Support Specialist | Digital Forensic Examiner) ](https://www.linkedin.com/in/brazilianscriptguy/)
 
-
 	     * [Marcio Bezerra da Silva (Análises em Geral) ](www.amapadigital.net)
 		 
 * AMAZONAS
